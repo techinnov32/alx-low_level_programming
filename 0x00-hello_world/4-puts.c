@@ -2,10 +2,10 @@
 
 /**
  * main -prints "programming is like building a multilingual puzzle"
- * return 0.
+ * return: ALways 0.
  */
 
-int main(viod)
+int main(void)
 
 {
 	puts ("\"programming is like building a multiligual puzzle");
